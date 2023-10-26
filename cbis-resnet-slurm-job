@@ -45,7 +45,7 @@
 
 
 # To receive an email when job completes or fails
-#SBATCH --mail-user=enoch.mok@monash.edu
+#SBATCH --mail-user=nan.he@monash.edu
 #SBATCH --mail-type=END
 #SBATCH --mail-type=FAIL
 
